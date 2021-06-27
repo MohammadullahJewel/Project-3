@@ -823,7 +823,7 @@ nav input{
   position:relative;
 }
 .flex-single-column.flex-single-column1 {
-  background-image: url(assets/img/Project-img/img35.jpg);
+  background-image: url(assets/img/Project-img/first-chair.jpg);
   background-size: cover;
   background-position: center;
   height: 300px;
@@ -831,14 +831,14 @@ nav input{
   object-fit: cover;
 }
 .flex-single-column.flex-single-column2{
-  background-image: url(assets/img/Project-img/img36.jpg);
+  background-image: url(assets/img/Project-img/second-chair.jpg);
   background-size:cover;
   background-position:center;
   width:100%;
   height:300px;
 }
 .flex-column-2 .flex-single-column-3{
-  background-image: url(assets/img/Project-img/img37.jpg);
+  background-image: url(assets/img/Project-img/last-chair.jpg);
   background-size:cover;
   background-position:center;
   width:100%;
